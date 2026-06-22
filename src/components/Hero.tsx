@@ -81,8 +81,8 @@ export default function Hero() {
                 animationDelay: '0.3s',
               }}
             >
-              Get treated by a{' '}
-              <strong style={{ color: '#0B5FFF' }}>Spine Specialist</strong> with{' '}
+              Get treated by an{' '}
+              <strong style={{ color: '#0B5FFF' }}>Endoscopic Spine Specialist</strong> with{' '}
               <strong>15+ Years Experience</strong> in Hyderabad.
             </p>
 
@@ -239,7 +239,7 @@ export default function Hero() {
               >
                 <img
                   src="/images/doctor-hero.jpg"
-                  alt="Dr. Himanshu R Prasad - Spine & Orthopedic Surgeon in Hyderabad"
+                  alt="Dr. Himanshu R Prasad - Endoscopic Spine Specialist in Hyderabad"
                   style={{
                     width: '100%',
                     height: '100%',
@@ -276,7 +276,7 @@ export default function Hero() {
                     Dr. Himanshu R Prasad
                   </div>
                   <div style={{ fontFamily: 'Inter', fontSize: '13px', color: '#0B5FFF', fontWeight: 500 }}>
-                    MS Ortho | Spine Surgeon · Sunshine Hospitals
+                    MS Ortho | Endoscopic Spine Specialist · Sunshine Hospitals
                   </div>
                 </div>
               </div>

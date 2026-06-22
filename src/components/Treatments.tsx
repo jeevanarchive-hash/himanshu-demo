@@ -8,19 +8,19 @@ const treatmentGroups = [
     borderColor: '#0B5FFF',
     items: [
       {
-        name: 'Spinal Fusion',
-        desc: 'Permanent joining of vertebrae to eliminate painful motion',
-        icon: '🔗',
-      },
-      {
-        name: 'Microdiscectomy',
-        desc: 'Microsurgical removal of herniated disc material',
+        name: 'Endoscopic Spine Surgery',
+        desc: 'Ultra-minimally invasive keyhole procedure for slip disc & sciatica',
         icon: '🔬',
       },
       {
-        name: 'Minimally Invasive Spine Surgery',
-        desc: 'Less cutting, faster healing, smaller scars',
+        name: 'Microdiscectomy / Decompression',
+        desc: 'Microsurgical removal of herniated disc material to relieve nerve pressure',
         icon: '🎯',
+      },
+      {
+        name: 'Minimally Invasive Spinal Fusion',
+        desc: 'Advanced stabilization of vertebrae with minimal muscle disruption',
+        icon: '🔗',
       },
     ],
   },

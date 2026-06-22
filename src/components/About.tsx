@@ -104,11 +104,11 @@ export default function About() {
               </div>
               <div className="flex flex-wrap gap-2">
                 {[
+                  'Endoscopic Spine Surgery',
+                  'Minimally Invasive Spine Surgery',
                   'Degenerative Spine Disorders',
                   'Scoliosis & Spinal Deformities',
-                  'Pediatric Spine Conditions',
                   'Spine Trauma',
-                  'Minimally Invasive Spine Surgery',
                   'Complex Spinal Reconstruction',
                 ].map((interest) => (
                   <span
@@ -148,7 +148,7 @@ export default function About() {
                 marginTop: '6px',
               }}
             >
-              MS Ortho | Senior Spine & Orthopedic Surgeon
+              MS Ortho | Senior Endoscopic Spine Specialist & Surgeon
             </div>
             <div
               style={{
@@ -171,7 +171,7 @@ export default function About() {
                 lineHeight: 1.8,
               }}
             >
-              Dr. Himanshu R Prasad is one of Hyderabad's leading spine and orthopedic surgeons with over{' '}
+              Dr. Himanshu R Prasad is one of Hyderabad's leading endoscopic spine surgeons and orthopedic specialists with over{' '}
               <strong>15 years of total experience</strong> and{' '}
               <strong>13+ years as a dedicated spine specialist</strong>.
             </p>
@@ -184,7 +184,7 @@ export default function About() {
                 lineHeight: 1.8,
               }}
             >
-              He specializes in complex spinal disorders, scoliosis correction, and minimally invasive
+              He specializes in endoscopic spine surgery, complex spinal disorders, scoliosis correction, and minimally invasive
               techniques that ensure <strong>faster recovery, less pain, and long-term results</strong> for
               his patients — from pediatric cases to elderly degenerative conditions.
             </p>

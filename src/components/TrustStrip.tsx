@@ -17,7 +17,7 @@ export default function TrustStrip() {
     },
     {
       icon: '🧠',
-      value: 'Spine Specialist',
+      value: 'Endoscopic Spine Specialist',
       sub: 'MS Ortho · Certified',
     },
     {
